@@ -4,3 +4,6 @@
 
 
 Modelo Matematico
+
+
+![Figure_1](https://user-images.githubusercontent.com/74606701/150977225-b1eca721-8d60-4aa8-b50c-d460cef6596f.png)
